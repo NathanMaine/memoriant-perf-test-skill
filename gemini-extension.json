@@ -1,0 +1,11 @@
+{
+  "name": "memoriant-perf-test-skill",
+  "description": "AI-powered load test plan generation: service profiles to steady/burst/soak test configurations, SLO validation, metrics interpretation, and append-only evidence logging.",
+  "version": "1.0.0",
+  "skills": [
+    {
+      "name": "perf-test",
+      "path": "skills/perf-test/SKILL.md"
+    }
+  ]
+}

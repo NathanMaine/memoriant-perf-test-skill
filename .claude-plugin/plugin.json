@@ -1,0 +1,15 @@
+{
+  "name": "memoriant-perf-test-skill",
+  "version": "1.0.0",
+  "description": "AI-powered load test plan generation: service profiles to steady/burst/soak test configurations, SLO validation, metrics interpretation, and append-only evidence logging. 1 skill + 1 specialized agent.",
+  "author": {
+    "name": "Nathan Maine",
+    "url": "https://github.com/NathanMaine"
+  },
+  "homepage": "https://github.com/NathanMaine/agent-perf-test-generator",
+  "repository": "https://github.com/NathanMaine/memoriant-perf-test-skill",
+  "license": "MIT",
+  "keywords": ["performance", "load-testing", "slo", "k6", "locust", "jmeter", "steady", "burst", "soak", "metrics", "evidence"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}
