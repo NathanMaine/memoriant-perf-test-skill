@@ -1,15 +1,6 @@
 ---
 name: perf-test
 description: Generate load test plans from service profiles. Produces steady, burst, and soak test configurations with SLO-aligned checks, interprets metrics results, and logs tamper-evident evidence records.
-version: 1.0.0
-author: Nathan Maine
-triggers:
-  - /perf-test
-  - "generate load test"
-  - "create load test plan"
-  - "performance test plan"
-  - "slo validation"
-  - "interpret load test results"
 ---
 
 # Performance & Load Test Plan Generation Skill
